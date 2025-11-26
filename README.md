@@ -1,1 +1,1 @@
-# HALO-ROBOT.github.io
+# Distilling Universal Latent Action for Vision-Language-Action Model
